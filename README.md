@@ -8,7 +8,6 @@ You'll find:
 - a gradle file which can be used to build/test/run/clean/distro the project (more on that later)
 - a basic HelloWorld program with logging configured (slf4j and logback)
 - a basic TestNG test framework in place to test the HelloWorld program
-- the Eclipse plugin used in the gradle file so that if, in Eclipse, you import the project as a Gradle project, everything should just work
 
 The gradle files are configured to support the tasks you would expect.
 As a general rule, you would do 

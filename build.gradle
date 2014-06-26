@@ -1,6 +1,5 @@
 apply plugin: 'java'
 apply plugin: 'application'
-apply plugin: 'eclipse'
 
 group = 'com.manniwood'
 version = '1.0'
