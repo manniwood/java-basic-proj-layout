@@ -26,3 +26,7 @@ test {
     testLogging.showStandardStreams = true
 }
 
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.2.1'
+}
+
