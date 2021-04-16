@@ -1,5 +1,11 @@
 # Java Basic Project Layout
 
+## Project Status: Abandonware
+
+I haven't coded Java in about 5 years, so...
+
+## Summary
+
 This is a template I use to start Java projects.
 
 You'll find:
